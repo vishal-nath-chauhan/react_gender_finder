@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_gender_finder/static/css/main.20857846.chunk.css",
+    "main.js": "/react_gender_finder/static/js/main.e136d223.chunk.js",
+    "main.js.map": "/react_gender_finder/static/js/main.e136d223.chunk.js.map",
+    "runtime-main.js": "/react_gender_finder/static/js/runtime-main.c0f596dd.js",
+    "runtime-main.js.map": "/react_gender_finder/static/js/runtime-main.c0f596dd.js.map",
+    "static/js/2.82eb3d0f.chunk.js": "/react_gender_finder/static/js/2.82eb3d0f.chunk.js",
+    "static/js/2.82eb3d0f.chunk.js.map": "/react_gender_finder/static/js/2.82eb3d0f.chunk.js.map",
+    "static/js/3.358b800a.chunk.js": "/react_gender_finder/static/js/3.358b800a.chunk.js",
+    "static/js/3.358b800a.chunk.js.map": "/react_gender_finder/static/js/3.358b800a.chunk.js.map",
+    "index.html": "/react_gender_finder/index.html",
+    "static/css/main.20857846.chunk.css.map": "/react_gender_finder/static/css/main.20857846.chunk.css.map",
+    "static/js/2.82eb3d0f.chunk.js.LICENSE.txt": "/react_gender_finder/static/js/2.82eb3d0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0f596dd.js",
+    "static/js/2.82eb3d0f.chunk.js",
+    "static/css/main.20857846.chunk.css",
+    "static/js/main.e136d223.chunk.js"
+  ]
+}
